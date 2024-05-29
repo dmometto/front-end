@@ -1,0 +1,14 @@
+body{
+    /* background-color = cor de fundo da página */ 
+    background-color:rgb(46, 168, 101);
+             /* "ctrl:" abre os comentários  */
+}
+
+ h1{
+    /* Mudar a fonte do texto */
+    font-family: Arial, Helvetica, sans-serif;
+    /* Mudar o tamanho da letra */
+    font-size: 40pt;
+    /* Alinhar texto */
+    text-align: center;
+ }

@@ -1,4 +1,5 @@
 O que é o HTML ?
+
 - HTML siguinifica (Hyper Text Markup Language- Linguagem de Marcação de HyperTexto)
 - Os comandos em HTML são chamados de TAGs.
 As tags são palavras chaves que ficam cercadas pelos símbolos maior e menor < >. Ex.. : <hr>, <body>... </body>
@@ -22,3 +23,18 @@ código em objetos.
 Todo o arquivo HTML deve ser salvo com a extensão .html
 Para testar um arquivo html, nós abrimos em um navegador web
 (Chorme, Opera, Edge, Firefox, Safari, Yandex, Brave, Tor...)
+
+
+CSS, o que é?
+
+CSS- Cascade Style Sheet (Folha de estilo em cascata)
+O CSS é utilizado para fazer formatação em páginas html
+Pode aplicar o CSS de 3 formas:
+    -Arquivo Externo de CSS "style.css"
+    -Embotir o CSS no tag head da página HTML
+    -Aplicar o CSS diretamente na Tag html desejada <h1 style "color white">
+
+Há também 3 elementos de aplicação:
+    -ID = Identificador = Usamos #
+    -Class = Classe = Usamos .
+    -Tag = tag html
